@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JCAS-physicist
 - 👀 I’m interested in programming with python. 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on whatever 
+- 💞️ I’m looking to collaborate on Machine Learning and data Analytics.  
 - 📫 How to reach me jcaviles@ifisica.uaslp.mx
 
 <!---
